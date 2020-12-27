@@ -19,7 +19,7 @@ function setup() {
 	engine = Engine.create();
 	world = engine.world;
 
-	roof=new Roof(width/2,height/5,600,80);
+	roof=new Roof(width/2,height/5,800,80);
 
 	diameter=80;
 
